@@ -32,23 +32,23 @@
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="Dfe-Rj-7gg" secondAttribute="height" multiplier="76:11" id="rfw-Rz-nIV"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="18"/>
-                                <color key="textColor" systemColor="systemCyanColor"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="19"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Rating: X / 10.0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8EN-b9-D5Z">
-                                <rect key="frame" x="232" y="340" width="162" height="28"/>
+                                <rect key="frame" x="263" y="340" width="131" height="22"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="8EN-b9-D5Z" secondAttribute="height" multiplier="36:7" constant="17.857142857142847" id="2h3-gU-Wi1"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="18"/>
-                                <color key="textColor" systemColor="systemCyanColor"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="18"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Last time started:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pNe-we-hUt">
-                                <rect key="frame" x="20" y="340" width="197" height="23"/>
-                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="18"/>
-                                <color key="textColor" systemColor="systemCyanColor"/>
+                                <rect key="frame" x="20" y="340" width="228" height="22"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="18"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" adjustsImageWhenHighlighted="NO" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Isn-3B-is5">
@@ -65,7 +65,7 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="myChoice" translatesAutoresizingMaskIntoConstraints="NO" id="ToI-Cy-9wL">
-                                <rect key="frame" x="134" y="466" width="146" height="145.5"/>
+                                <rect key="frame" x="134" y="464" width="146" height="145.5"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="ToI-Cy-9wL" secondAttribute="height" multiplier="1:1" id="tYn-LF-cPO"/>
                                 </constraints>
@@ -75,8 +75,8 @@
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="YNi-HY-4jD" secondAttribute="height" multiplier="162:29" id="AQE-Ae-eES"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="24"/>
-                                <color key="textColor" systemColor="systemCyanColor"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="24"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" adjustsImageWhenHighlighted="NO" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zhN-gx-E4c">
@@ -93,13 +93,13 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Number of trips: " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z6A-b3-RO1">
-                                <rect key="frame" x="16" y="371" width="382" height="23"/>
-                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="18"/>
-                                <color key="textColor" systemColor="systemCyanColor"/>
+                                <rect key="frame" x="16" y="370" width="382" height="22"/>
+                                <fontDescription key="fontDescription" name="Charter-Roman" family="Charter" pointSize="18"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="qpB-I9-Qc0">
-                                <rect key="frame" x="0.0" y="419" width="414" height="32"/>
+                                <rect key="frame" x="0.0" y="417" width="414" height="32"/>
                                 <segments>
                                     <segment title="Lamborgini"/>
                                     <segment title="Ferrari"/>
@@ -114,7 +114,7 @@
                             </segmentedControl>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="XGI-Ss-xom"/>
-                        <color key="backgroundColor" red="0.92327572601010099" green="0.92327572601010099" blue="0.92327572601010099" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.96841150522232056" green="0.95560364167623357" blue="0.5015294404923335" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="pNe-we-hUt" firstAttribute="leading" secondItem="XGI-Ss-xom" secondAttribute="leading" constant="20" id="3ee-MW-Nuw"/>
                             <constraint firstItem="8EN-b9-D5Z" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Dum-RP-b8w" secondAttribute="leading" constant="20" symbolic="YES" id="4k8-J4-TFw"/>
@@ -170,8 +170,8 @@
         <image name="button" width="112" height="32"/>
         <image name="lamborginiMurcielago" width="210" height="101"/>
         <image name="myChoice" width="150" height="150"/>
-        <systemColor name="systemCyanColor">
-            <color red="0.19607843137254902" green="0.67843137254901964" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemBlueColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
