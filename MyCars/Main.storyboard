@@ -107,14 +107,13 @@
                                     <segment title="Nissan"/>
                                     <segment title="BMW"/>
                                 </segments>
-                                <color key="selectedSegmentTintColor" red="0.76786246766300259" green="0.89682016968283884" blue="0.95369712752525249" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <connections>
                                     <action selector="segmentedCtrlPressed:" destination="dPO-Cy-q9y" eventType="valueChanged" id="lav-YD-oyp"/>
                                 </connections>
                             </segmentedControl>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="XGI-Ss-xom"/>
-                        <color key="backgroundColor" red="0.96841150522232056" green="0.95560364167623357" blue="0.5015294404923335" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.94328010082244873" green="0.67228172846546752" blue="0.3355430422888846" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="pNe-we-hUt" firstAttribute="leading" secondItem="XGI-Ss-xom" secondAttribute="leading" constant="20" id="3ee-MW-Nuw"/>
                             <constraint firstItem="8EN-b9-D5Z" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Dum-RP-b8w" secondAttribute="leading" constant="20" symbolic="YES" id="4k8-J4-TFw"/>
