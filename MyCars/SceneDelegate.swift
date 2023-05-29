@@ -3,6 +3,7 @@
 //  MyCars
 //
 //  Created by Katsiaryna Kulik  on 20.04.23.
+//  Copyright © 2023 Katsiaryna Kulik. All rights reserved.
 //
 
 import UIKit

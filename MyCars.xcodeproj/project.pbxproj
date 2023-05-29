@@ -101,11 +101,10 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 1020;
-				ORGANIZATIONNAME = "Ivan Akulov";
+				ORGANIZATIONNAME = "Katsiaryna Kulik";
 				TargetAttributes = {
 					35F2F4DE1C084725000E1CB3 = {
 						CreatedOnToolsVersion = 7.1.1;
-						DevelopmentTeam = 5H969S6YFE;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -277,14 +276,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5H969S6YFE;
+				DEVELOPMENT_TEAM = XN7SPBLRTW;
 				INFOPLIST_FILE = MyCars/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.swiftbook.MyCars;
+				PRODUCT_BUNDLE_IDENTIFIER = "Katsiaryna-Kulik.MyCars";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -294,14 +293,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5H969S6YFE;
+				DEVELOPMENT_TEAM = XN7SPBLRTW;
 				INFOPLIST_FILE = MyCars/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ru.swiftbook.MyCars;
+				PRODUCT_BUNDLE_IDENTIFIER = "Katsiaryna-Kulik.MyCars";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
